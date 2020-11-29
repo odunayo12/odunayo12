@@ -13,7 +13,7 @@
 
 ## Toolbox 🧰
   * #### Competencies
-   `Research`, `Data Analysis & Visualization`, `Machine Learning`, `Web Design`.
+    `Research`, `Data Analysis & Visualization`, `Machine Learning`, `Web Design`.
   * #### Languages 
     [`JavaScript`](https://github.com/odunayo12/next-js) [`Python`](https://github.com/odunayo12/New_NGN_BUDGET_DATA) [`TypeScript`](https://github.com/odunayo12/angular-app) [`R`](https://github.com/odunayo12/New_NGN_BUDGET_DATA)
   * #### Frameworks/Libraries
