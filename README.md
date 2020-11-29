@@ -12,12 +12,16 @@
 
 
 ## Toolbox 🧰
+  * #### Competencies
+   `Research`, `Data Analysis & Visualization`, `Machine Learning`, `Web Design`.
   * #### Languages 
     [`JavaScript`](https://github.com/odunayo12/next-js) [`Python`](https://github.com/odunayo12/New_NGN_BUDGET_DATA) [`TypeScript`](https://github.com/odunayo12/angular-app) [`R`](https://github.com/odunayo12/New_NGN_BUDGET_DATA)
-
   * #### Frameworks/Libraries
     ##### Web Technologies
     [`HTML`](https://github.com/odunayo12/blog_JnF) [`CSS`](https://github.com/odunayo12/blog_JnF) [`nodejs`](https://github.com/odunayo12/blog_JnF) [`reactjs`]() [`nextjs`](https://github.com/odunayo12/next-js) [`angular`](https://github.com/odunayo12/angular-app) [`expressjs`](https://github.com/odunayo12/blog_JnF) 
-    
     ##### Data Analytics
     [`monogodb`](https://github.com/odunayo12/blog_JnF) [`MySQL`](https://github.com/odunayo12/New_NGN_BUDGET_DATA/tree/master/Budget_Data/database) [`d3.js`](https://observablehq.com/@odunayo12/nigerian-population)  
+    
+    
+
+  
